@@ -1,4 +1,3 @@
-do
 local TS = game:GetService("TweenService")
 local CG = game:GetService("CoreGui")
 local SS = game:GetService("SoundService")
