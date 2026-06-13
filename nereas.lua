@@ -177,7 +177,6 @@ pcall(function() music:Destroy() end)
 pcall(function() blur:Destroy() end)
 pcall(function() gui:Destroy() end)
 
-end
 
 -- ============================================================
 -- EFECTO DE CLIMA
